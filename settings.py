@@ -1,4 +1,4 @@
-WORKSPACE = "workspaces/001"
+WORKSPACE = "workspaces/000"
 
 # VRAM sensitive constants
 KEEP_TURNTABLE = True
