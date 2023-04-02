@@ -1,0 +1,11 @@
+pos: <lora:charturnerv2:1.3>, (mulitple view of the same character and same outfits:1.0), character reference sheet, side view, front view, %%PROMPT%%, high fantasy, dnd, solid gray background, same character, identical characters, identical outfit, identical hair, identical face, multiple of the same person
+neg: text, watermark, logo, blurry, weapon, sword, shield, holding things, items, spears, blades, clubs, handles, lighting, edge lighting, harsh lighting, deformed face, sexy, skimpy, revealing clothes, (multiple legs:1.2), (multiple limbs:1.2)
+
+
+%%PROMPT%% examples:
+female necromancer, short and slight with pale skin and jet black hair styled in intricate braids, wearing dark flowing robes
+male warlock, tall and gaunt with pale skin and dark, piercing eyes, dressed in black robes
+female paladin, short and muscular with short cropped blonde hair, wearing shiny plate armor
+male wizard, tall and thin with a prominent nose and long white beard, draped in flowing blue robes adorned with intricate silver symbols
+female druid, petite and agile with piercing blue eyes and wild, curly hair, wearing a cloak made of leaves
+male fighter, broad-shouldered and muscular with short, cropped hair and a rugged face, dressed in heavy plate armor
